@@ -55,7 +55,7 @@
     "config": {
         "platform-check": false,
         "platform": {
-            "php": "8.2.0"
+            "php": "8.2.20"
         },
         "allow-plugins": {
             "composer/package-versions-deprecated": true,
