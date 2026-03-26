@@ -1,5 +1,5 @@
 # Base image compatible with ARM
-FROM php:8.2-fpm-alpine
+FROM php:8.4-fpm-alpine
 
 # Install autoconf and other build dependencies
 RUN apk add --update --no-cache \

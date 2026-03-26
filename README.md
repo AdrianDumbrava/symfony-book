@@ -7,7 +7,7 @@ As the description says, this project is a study case of the [Symfony 6.4 book](
 ## Services
 
 It's composed by 6 containers:
-* PHP 8.2 (FPM-Alpine)
+* PHP 8.4 (FPM-Alpine)
 * MySQL 8.0
 * Nginx 1.24
 * Redis 7.2
